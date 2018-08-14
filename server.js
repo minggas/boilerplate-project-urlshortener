@@ -4,7 +4,6 @@ var express = require('express');
 var mongo = require('mongodb');
 var mongoose = require('mongoose');
 var dns = require('dns');
-var validUrl = require('valid-url');
 
 var cors = require('cors');
 
