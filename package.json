@@ -20,12 +20,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://hyperdev.com/#!/project/welcome-project"
+    "url": "https://github.com/minggas/boilerplate-project-urlshortener"
   },
   "keywords": [
     "node",
-    "hyperdev",
-    "express"
+    "express",
+    "MongoDB",
+    "Mongoose"
   ],
   "license": "MIT"
 }
