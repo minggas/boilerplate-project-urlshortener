@@ -12,7 +12,6 @@
     "mongoose": "^5.2.7",
     "cors": "^2.8.4",
     "body-parser": "^1.18.3",
-    "valid-url": "^1.0.9",
     "bluebird": "^3.5.1",
     "mongoose-sequence": "^4.0.1"
   },
